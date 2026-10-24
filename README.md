@@ -203,7 +203,8 @@ Sebelum deployment:
 
 ## 14. Tautan Pengumpulan
 
-- **GitHub Repository:** [Tambahkan URL repositori GitHub]
-- **Live Dashboard:** [Tambahkan URL aplikasi setelah deployment]
-- **Sumber Dataset:** [Tambahkan URL dataset asli]
-- **Referensi Kode:** [Tambahkan URL referensi kode yang digunakan]
+- **GitHub Repository:** [https://github.com/sitihindunnursifa-svg/vdi-multidbms]
+- **Live Dashboard:** [https://vdi-multidbms-syifa.streamlit.app/]
+- **Sumber Dataset:** [https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business]
+- **Referensi Kode:** [https://plotly.com/python/]
+
