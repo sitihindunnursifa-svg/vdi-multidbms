@@ -172,12 +172,8 @@ http://localhost:8501
 
 ## 11. Sumber Dataset
 
-Cantumkan tautan asli sumber dataset yang digunakan di bagian ini sebelum publikasi.
-
-- Dataset transaksi: **[Tambahkan URL sumber dataset transaksi]**
-- Dataset master produk: **[Tambahkan URL sumber master produk]**
-
-Nama file lokal bukan pengganti URL sumber asli. Pastikan sumber dataset benar-benar sesuai dengan data yang digunakan.
+Dataset yang digunakan dalam proyek ini diperoleh dari Kaggle:
+- **Dataset Penjualan (Online Shop Business):** https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business.
 
 ## 12. Referensi Kode dan Dokumentasi
 
